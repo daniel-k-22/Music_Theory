@@ -1,6 +1,5 @@
 from Music_Scales import Scales
 import os
-import pandas
 class Chord_Structure:
     def __init__(self):
         os.system("cls")

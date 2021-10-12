@@ -1,4 +1,4 @@
-from Main import Music_Theory
+from .Main import Music_Theory
 import os
 def Music_System(user_input, helper):
     if user_input == 1 :
